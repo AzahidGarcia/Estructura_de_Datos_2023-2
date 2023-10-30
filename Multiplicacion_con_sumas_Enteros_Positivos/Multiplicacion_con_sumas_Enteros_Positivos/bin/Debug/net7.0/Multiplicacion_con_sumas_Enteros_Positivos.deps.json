@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Multiplicacion_con_sumas_Enteros_Positivos/1.0.0": {
+        "runtime": {
+          "Multiplicacion_con_sumas_Enteros_Positivos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multiplicacion_con_sumas_Enteros_Positivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
