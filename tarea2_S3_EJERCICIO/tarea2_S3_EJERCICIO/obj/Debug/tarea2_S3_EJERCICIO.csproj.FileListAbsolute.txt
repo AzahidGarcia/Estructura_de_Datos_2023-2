@@ -1,0 +1,6 @@
+/Users/MacBook/Projects/tarea2_S3_EJERCICIO/tarea2_S3_EJERCICIO/bin/Debug/tarea2_S3_EJERCICIO.exe
+/Users/MacBook/Projects/tarea2_S3_EJERCICIO/tarea2_S3_EJERCICIO/bin/Debug/tarea2_S3_EJERCICIO.pdb
+/Users/MacBook/Projects/tarea2_S3_EJERCICIO/tarea2_S3_EJERCICIO/obj/Debug/tarea2_S3_EJERCICIO.csproj.AssemblyReference.cache
+/Users/MacBook/Projects/tarea2_S3_EJERCICIO/tarea2_S3_EJERCICIO/obj/Debug/tarea2_S3_EJERCICIO.csproj.CoreCompileInputs.cache
+/Users/MacBook/Projects/tarea2_S3_EJERCICIO/tarea2_S3_EJERCICIO/obj/Debug/tarea2_S3_EJERCICIO.exe
+/Users/MacBook/Projects/tarea2_S3_EJERCICIO/tarea2_S3_EJERCICIO/obj/Debug/tarea2_S3_EJERCICIO.pdb
