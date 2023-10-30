@@ -1,0 +1,15 @@
+/Users/MacBook/Projects/RetoS3/RetoS3/obj/Debug/net7.0/RetoS3.csproj.AssemblyReference.cache
+/Users/MacBook/Projects/RetoS3/RetoS3/obj/Debug/net7.0/RetoS3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MacBook/Projects/RetoS3/RetoS3/obj/Debug/net7.0/RetoS3.AssemblyInfoInputs.cache
+/Users/MacBook/Projects/RetoS3/RetoS3/obj/Debug/net7.0/RetoS3.AssemblyInfo.cs
+/Users/MacBook/Projects/RetoS3/RetoS3/obj/Debug/net7.0/RetoS3.csproj.CoreCompileInputs.cache
+/Users/MacBook/Projects/RetoS3/RetoS3/bin/Debug/net7.0/RetoS3
+/Users/MacBook/Projects/RetoS3/RetoS3/bin/Debug/net7.0/RetoS3.deps.json
+/Users/MacBook/Projects/RetoS3/RetoS3/bin/Debug/net7.0/RetoS3.runtimeconfig.json
+/Users/MacBook/Projects/RetoS3/RetoS3/bin/Debug/net7.0/RetoS3.dll
+/Users/MacBook/Projects/RetoS3/RetoS3/bin/Debug/net7.0/RetoS3.pdb
+/Users/MacBook/Projects/RetoS3/RetoS3/obj/Debug/net7.0/RetoS3.dll
+/Users/MacBook/Projects/RetoS3/RetoS3/obj/Debug/net7.0/refint/RetoS3.dll
+/Users/MacBook/Projects/RetoS3/RetoS3/obj/Debug/net7.0/RetoS3.pdb
+/Users/MacBook/Projects/RetoS3/RetoS3/obj/Debug/net7.0/RetoS3.genruntimeconfig.cache
+/Users/MacBook/Projects/RetoS3/RetoS3/obj/Debug/net7.0/ref/RetoS3.dll
