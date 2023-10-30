@@ -1,0 +1,6 @@
+/Users/MacBook/Projects/Ejercicio2/Ejercicio2/bin/Debug/Ejercicio2.exe
+/Users/MacBook/Projects/Ejercicio2/Ejercicio2/bin/Debug/Ejercicio2.pdb
+/Users/MacBook/Projects/Ejercicio2/Ejercicio2/obj/Debug/Ejercicio2.csproj.AssemblyReference.cache
+/Users/MacBook/Projects/Ejercicio2/Ejercicio2/obj/Debug/Ejercicio2.csproj.CoreCompileInputs.cache
+/Users/MacBook/Projects/Ejercicio2/Ejercicio2/obj/Debug/Ejercicio2.exe
+/Users/MacBook/Projects/Ejercicio2/Ejercicio2/obj/Debug/Ejercicio2.pdb
